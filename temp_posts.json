@@ -1,0 +1,10 @@
+{
+    "post1": {
+    "title": "post#1 title",
+    "author": "post#1 author"
+    },
+    "post2": {
+    "title": "post#2 title",
+    "author": "post#2 author"
+    }
+}
